@@ -1,0 +1,11 @@
+/venv/*
+/datas/*
+/downloads/*
+skategram-serviceAccountKey.json
+/utils/*
+/weights_skate.hdf5
+Server.ipynb
+HowToFirebase.py
+.idea
+/saved_model_keras_dir/*
+requirements.txt
